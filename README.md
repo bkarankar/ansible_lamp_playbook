@@ -1,6 +1,8 @@
 # ansible-centos7-lamp
 Ansible Playbook to create LAMP in CentOS 7 with Apache, MySQL, PHP.
 -------------------------------------------
+source: https://github.com/arocki7/ansible-centos7-lamp
+just copied those code for some testing
 
 This playbook require Ansible 2.3.2.0.
 
